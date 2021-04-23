@@ -2,4 +2,6 @@ test3.txt
 this is a new line!
 
 modify test3 in branchmaster
+modify test3 in branch test--branch
 new add by test branch!
+
