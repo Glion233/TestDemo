@@ -1,4 +1,7 @@
 this is a test file!
 made by castle!
 
-the next line!
+the ne
+
+
+hello text
