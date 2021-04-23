@@ -1,4 +1,5 @@
 test3.txt
 this is a new line!
 
-modify test3 in branch test
+modify test3 in br
+new add by test branch!
